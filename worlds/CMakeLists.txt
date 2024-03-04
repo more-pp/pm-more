@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(articubot_one)
+project(/home/pi/robot-pm_ws/src/pm-more)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
